@@ -5,5 +5,6 @@ print('<출력>')
 print('이름 : ' , 이름)
 print('학번 : ' , 학번)
 print('학과 : ' , 학과)
+print('수정')
 
 
